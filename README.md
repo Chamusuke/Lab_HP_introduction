@@ -3,9 +3,14 @@
   2023/05/04~  
   UTF-8  
   GitHub: https://github.com/Chamusuke/Lab_HP_introduction
+
+  ###  **VScodeでのREADMD.mdのプレビュー表示**
+  Ctr+shift+pを押して、"Markdown"と検索、"Markdown : Open preview to the side"を選択する
   ***
-  ## **！デバック時の注意**   
-  **メンテナンス性を重視し、よく変更する部分は.txtファイルの書き換えのみで変更できるようにした．**  
+
+
+  ### **！デバック時の注意**   
+  メンテナンス性を重視し、よく変更する部分は.txtファイルの書き換えのみで変更できるようにした．  
 
   - <span style="color: green; ">**newsとthemeは.txtファイル内を変更するだけでHTMLに反映可能．**</span>  
 - <span style="color: green; ">**メンバー変更のみ、index.html等を変更する必要あり．**</span>  
